@@ -1,7 +1,7 @@
 Ukrainian spellchecking dictionary for jetBrains IDEs family.  
 Tested with WebStorm 9 but have to work with every jetBrains IDE (PhpStorm, PyCharm etc)  
 
-Based on (Hunspell/Aspell for Ukrainian)[http://sourceforge.net/projects/ispell-uk/?source=navbar]
+Based on [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/ispell-uk/?source=navbar)
 
 Install:  
 
@@ -13,5 +13,5 @@ Install:
 
 Glory to Ukraine!
 
-License: see on (Hunspell/Aspell for Ukrainian)[http://sourceforge.net/projects/ispell-uk/?source=navbar] page
+License: see on [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/ispell-uk/?source=navbar) page
 
