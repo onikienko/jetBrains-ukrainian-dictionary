@@ -17,7 +17,7 @@ License: see on [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/
 
 --------
 
-Українский словник для перевірки орфографії в Webstrom, PhpStorm, PyCharm або будь якому IDE від jetBrains.
+Українский словник для перевірки орфографії в Webstrom, PhpStorm, PyCharm або будь-якому IDE від jetBrains.
 
 Словник базується на [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/ispell-uk/)
 
