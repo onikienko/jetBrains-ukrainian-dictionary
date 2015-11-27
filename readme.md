@@ -1,5 +1,5 @@
 Ukrainian spellchecking dictionary for jetBrains IDEs family.  
-Tested with WebStorm 9 and 10 but have to work with every jetBrains IDE (PhpStorm, PyCharm etc)  
+Tested with WebStorm but should work with all jetBrains IDE (PhpStorm, PyCharm etc)  
 
 Based on [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/ispell-uk/)
 
