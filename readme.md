@@ -1,3 +1,5 @@
+## Russian invaders must die. Glory to Ukraine.
+
 Ukrainian spellchecking dictionary for jetBrains IDEs family.  
 Tested with WebStorm but should work with all jetBrains IDE (PhpStorm, PyCharm etc)  
 
