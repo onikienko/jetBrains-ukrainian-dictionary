@@ -1,5 +1,3 @@
-## Russian invaders must die. Glory to Ukraine.
-
 Ukrainian spellchecking dictionary for jetBrains IDEs family.  
 Tested with WebStorm but should work with all jetBrains IDE (PhpStorm, PyCharm etc)  
 
@@ -32,4 +30,6 @@ License: see on [Hunspell/Aspell for Ukrainian](http://sourceforge.net/projects/
 5. Це все
 
 ![](http://onikienko.pp.ua/wp-content/uploads/2015/01/2015-01-30_153846.png)
+
+## Glory to Ukraine
 
